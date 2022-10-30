@@ -70,3 +70,10 @@ body {
     transition: all 0.3s ease-in-out;
   }
   
+  .hours {
+    display: flex;
+    flex-direction: column;
+    width: 50%;
+    margin: 0 auto;
+  color:#06aed5
+}
